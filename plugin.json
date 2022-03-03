@@ -1,0 +1,23 @@
+{
+  "slug": "blanka",
+  "name": "Blanka",
+  "version": "2.0.0",
+  "license": "proprietary",
+  "brand": "Blanka",
+  "author": "",
+  "authorEmail": "",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": [
+    {
+      "slug": "4hp",
+      "name": "4hp",
+      "description": "",
+      "tags": []
+    }
+  ]
+}
