@@ -257,13 +257,5 @@
      inkscape:label="components"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-101.73323,13.565441)">
-    <rect
-       style="opacity:1;fill:#eaeaea;fill-opacity:1;stroke-width:0.264999;stroke-linecap:round"
-       id="rect1007"
-       width="20.32"
-       height="128.5"
-       x="101.73323"
-       y="-13.565441" />
-  </g>
+     transform="translate(-101.73323,13.565441)" />
 </svg>
